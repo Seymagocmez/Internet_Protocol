@@ -2,13 +2,11 @@
 
 ## Giriş: İnternet'in Gizli Dili ve Adresleri
 
-Bugün hepimizin kullandığı ama arka planda işlerin nasıl yürüdüğünü bilmediği internetin aslında nasıl çalıştığını, cihazların birbirini nasıl tanıdığını ve bu dijital dünyayı düzenleyen kuralları konuşacağız.
+Bugün hepimizin kullandığı ama arka planında işlerin nasıl yürüdüğünü bilmediği internetin aslında nasıl çalıştığını, cihazların birbirini nasıl tanıdığını ve bu dijital dünyayı düzenleyen kuralları konuşacağız.
 
 **İnternet üzerinde bir web sitesine tıkladığınızda veriler size nasıl ulaşıyor?**
 
 Bu makalede, internetin 'alfabesi' diyebileceğimiz **IP** ve ağları daha düzenli hale getiren **alt ağlara ayırma** (diğer adıyla *subnetting*) kavramlarından bahsedeceğiz.
-
----
 
 ## İnternet Nedir ve IP Nasıl Ortaya Çıktı?
 
@@ -22,7 +20,13 @@ Bu makalede, internetin 'alfabesi' diyebileceğimiz **IP** ve ağları daha düz
 - Bilgi paylaşımını güvenli ve hızlı yapmak amacıyla çeşitli iletişim protokolleri geliştirildi.
 - İnternet henüz yokken, bilgisayarlar genellikle tek başına çalışır, veri transferi fiziksel yollarla (örneğin manyetik bant ya da disketlerle) yapılırdı.
 - Bu konuda ilk çalışmalar ARPA (İleri Düzey Araştırma Projeleri Ajansı) tarafından başlatıldı.
-- 1969'da ARPANET projesi başlatıldı. Bu sistem, internetin temelini oluşturan ilk geniş alan ağı (WAN) olarak kabul edilir.
+- 1969'da ARPANET projesi başlatıldı. Bu sistem,
+
+
+
+internetin temelini oluşturan ilk geniş alan ağı (WAN) olarak kabul edilir.
+
+  
 
 ### Protokol Ne Demek?
 
@@ -33,8 +37,6 @@ Bu makalede, internetin 'alfabesi' diyebileceğimiz **IP** ve ağları daha düz
 ### IP Nasıl Ortaya Çıktı?
 
 IP (Internet Protocol), verinin internet üzerinden nasıl ve nereye gideceğini belirleyen bir adresleme sistemidir.
-
----
 
 ## İnternet Fiziksel Bir Şey Mi? (TCP/IP'nin Büyük Resmi)
 
@@ -53,8 +55,6 @@ Bu yapı 4 katmandan oluşur:
    - **UDP**: Hızlı, kontrolsüz (video, oyun vs.)
 4. **Uygulama Katmanı**: Web tarayıcıları, e-posta, mesajlaşma.
 
----
-
 ## IP Adresi: Cihazınızın İnternet'teki Ev Numarası
 
 ### IP Adresi Nedir?
@@ -64,8 +64,6 @@ Bu yapı 4 katmandan oluşur:
 ### Kim Veriyor?
 
 İnternet servis sağlayıcınız (ISS) veya yerel ağdaki yönlendirici (router).
-
----
 
 ### DNS’in Rolü
 
