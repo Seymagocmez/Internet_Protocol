@@ -1,5 +1,10 @@
 # İnternet Protokolü ve Alt Ağlara Ayırma: Herkes İçin Basit Bir Rehber
 
+![Kaynak(https://mocomi.com/how-the-internet-works/)(Çevrildi)](https://github.com/user-attachments/assets/dcfffaf0-ef6e-472e-9f11-c7d44397a857)
+
+   Kaynak: [https://mocomi.com/how-the-internet-works/](https://mocomi.com/how-the-internet-works/) (Çevrildi)*
+
+
 ## Giriş: İnternet'in Gizli Dili ve Adresleri
 
 Bugün hepimizin kullandığı ama arka planında işlerin nasıl yürüdüğünü bilmediği internetin aslında nasıl çalıştığını, cihazların birbirini nasıl tanıdığını ve bu dijital dünyayı düzenleyen kuralları konuşacağız.
