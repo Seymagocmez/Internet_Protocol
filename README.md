@@ -1,4 +1,4 @@
-# İnternet Protokolü(IP) ve Alt Ağlara Ayırma(Subnetting)
+# İnternet Protokolü (IP) ve Alt Ağlara Ayırma (Subnetting)
 
 ## Giriş: İnternetin Dili ve Adresleri
 
@@ -43,11 +43,6 @@ internetin temelini oluşturan ilk geniş alan ağı (WAN) olarak kabul edilir.
 
 IP (Internet Protocol), verinin internet üzerinden nasıl ve nereye gideceğini belirleyen bir adresleme sistemidir.
 
-## İnternet Fiziksel Bir Şey Mi? (TCP/IP'nin Büyük Resmi)
-
-### İnternet Fiziksel Mi?
-
-Evet! Fiber kablolar, Wi-Fi sinyalleri, uydular, veri merkezleri gibi fiziksel altyapılardan oluşur.
 
 ### Katmanlı Yapı: TCP/IP
 
