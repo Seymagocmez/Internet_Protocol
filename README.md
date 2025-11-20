@@ -1,4 +1,4 @@
-# İnternet Protokolü (IP) ve Alt Ağlara Ayırma (Subnetting)
+# İnternet Protokolü (IP)
 
 ## Giriş: İnternetin Dili ve Adresleri
 
@@ -80,3 +80,19 @@ IP adresi, noktalı dört sayıdan oluşur:
 
 ```text
 Örnek: 192.0.2.172
+
+```
+
+### Kaynaklar
+
+https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html
+
+https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc940061(v=technet.10)
+
+https://www.cloudflare.com/learning/dns/what-is-dns/
+
+https://www.ibm.com/topics/ip-address
+
+https://mocomi.com/how-the-internet-works/
